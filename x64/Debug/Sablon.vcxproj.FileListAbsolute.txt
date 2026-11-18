@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Modeli\x64\Debug\glew32.dll
+C:\Users\HP\Desktop\Modeli\x64\Debug\Sablon.exe
+C:\Users\HP\Desktop\Modeli - Copy (3)\x64\Debug\glew32.dll
+C:\Users\HP\Desktop\Modeli - Copy (3)\x64\Debug\Sablon.exe
+E:\FTN2\GRAFIKA\Projekat3D\Modeli - Copy (3)\x64\Debug\glew32.dll
+E:\FTN2\GRAFIKA\Projekat3D\Modeli - Copy (3)\x64\Debug\Sablon.exe
+E:\FTN2\GRAFIKA\Iva Bojanic AI142022\Projekat3D\Modeli - Copy (3)\x64\Debug\glew32.dll
+E:\FTN2\GRAFIKA\Iva Bojanic AI142022\Projekat3D\Modeli - Copy (3)\x64\Debug\Sablon.exe

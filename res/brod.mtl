@@ -1,0 +1,100 @@
+#
+#
+#
+
+newmtl Box001 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Box002 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Box003 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Box004 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Box005 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Box006 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Box007 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Box009 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Brod Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Cylinder001 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl Cylinder002 Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
+newmtl RuckaGas Mesh_Material__2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ns 0.000000
+map_Kd Modeli
+map_Kd brod.png
